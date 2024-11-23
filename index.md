@@ -15,3 +15,6 @@ factorial n
   | n == 0    = Just 1
   | otherwise = Just $ product [1..n]
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
